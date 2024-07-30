@@ -1,0 +1,33 @@
+.temp-board{
+    text-align: center;
+    background-color: rgba(166, 189, 240, 0.938);
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 10px;
+    color: rgba(7, 6, 6, 0.74);
+    word-spacing: 10px;
+}
+
+.btn{
+    background-color: rgb(219, 209, 219);
+    color: rgb(80, 42, 82);
+    border-radius:20px;
+    width: 250px;
+    padding: 5px;
+    letter-spacing: 3px;
+}
+.board-flex{
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+    justify-content: space-between;
+    color: rgb(80, 42, 82);
+}
+
+.emojis{
+    font-size: 50px;
+    letter-spacing: 25px;
+}
+
